@@ -1,5 +1,5 @@
 # 💫 About Me:
-* Currently building hands-on cloud/infrastructure projects using **Terraform, Azure, CI/CD, and automation workflows** to gain real deployment experience.<br>
+* Currently building hands-on cloud/infrastructure projects using **AWS, Azure, CI/CD, Terraform, Databricks, PySpark, SQL and automation workflows** to gain real deployment experience.<br>
 * Actively learning Cloud practices, Infrastructure as Code, system design basics, and production-style environments <br>
 * Naturally curious about **how tools work under the hood**, not just how to use them—especially architecture choices and tradeoffs.<br>
 * Strong practical mindset: focused on **skills that create career leverage and solve real operational problems.**<br>
