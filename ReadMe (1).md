@@ -2,7 +2,8 @@
 * Currently building hands-on cloud/infrastructure projects using AWS, Azure, CI/CD, Terraform, Databricks, PySpark, SQL and automation workflows to gain real development and deployment experience.<br>
 * Actively learning Cloud practices, Infrastructure as Code, system design, and production-grade development practices.<br>
 * Naturally curious about how tools work under the hood, especially architecture choices and tradeoffs.<br>
-* Strong practical mindset: focused on skills that create career leverage and solve real operational problems.<br>- Self-driven learner who prefers building and experimenting over only consuming tutorials or theory.
+* Strong practical mindset: focused on skills that create career leverage and solve real operational problems.<br>
+* Self-driven learner who prefers building and experimenting over only consuming tutorials or theory.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manjotkaurr31@gmaill.com) 
